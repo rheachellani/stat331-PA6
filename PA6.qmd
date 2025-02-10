@@ -1,5 +1,6 @@
 ---
 title: "Practice Activity 6"
+author: "Angel, Elizabeth, Madeline, Rhea"
 format: html
 editor: visual
 embed-resources: true
